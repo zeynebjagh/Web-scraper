@@ -41,11 +41,10 @@ Python, Flask, Requests, BeautifulSoup4, lxml, openpyxl, HTML/CSS/JavaScript
 ## Project structure
 
 ```
-├── scraper_engine.py     # Core scraping engine (robots.txt check, fetch, parse, transform, save)
-├── app.py                 # Flask API (if applicable)
-├── templates/              # Frontend HTML
-├── presentation/           # Project slides (PDF)
-└── requirements.txt
+├── scraper_engine.py    # Core scraping engine (robots.txt check, fetch, parse, transform, save)
+├── presentation/        # Project slides (PDF)
+├── requirement.txt      # Python dependencies
+└── README.md
 ```
 
 ## Team
